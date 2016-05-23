@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertCall</key>
+	<string>Call [DE]</string>
+	<key>alertCancel</key>
+	<string>Cancel [DE]</string>
+	<key>alertCallLog</key>
+	<string>Call Log [DE]</string>
+	<key>alertSendSMS</key>
+	<string>SMS [DE]</string>
+	<key>deleteTableViewItemCalls</key>
+	<string>Del Call [DE]</string>
+	<key>deleteTableViewItemInbox</key>
+	<string>Del Mssg [DE]</string>
+	<key>startScreenConnect</key>
+	<string>Verbinden</string>
+	<key>startScreenSkip</key>
+	<string>Überspringen</string>
+	<key>tabBarInbox</key>
+	<string>Inbox [DE]</string>
+	<key>tabBarCalls</key>
+	<string>Calls [DE]</string>
+	<key>tabBarContacts</key>
+	<string>Contacts [DE]</string>
+	<key>tabBarMore</key>
+	<string>More [DE]</string>
+	<key>LanguageSelection</key>
+	<string>[DE]</string>
+</dict>
+</plist>

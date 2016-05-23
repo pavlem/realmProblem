@@ -1,0 +1,105 @@
+
+/* Class = "UILabel"; text = "Select Modem"; ObjectID = "0Gg-dM-chD"; */
+"0Gg-dM-chD.text" = "Select Modem";
+
+/* Class = "UITabBarItem"; title = "Inbox"; ObjectID = "5j2-7O-kXC"; */
+"5j2-7O-kXC.title" = "Inbox";
+
+/* Class = "UILabel"; text = "Update Software"; ObjectID = "6hc-hI-Ds1"; */
+"6hc-hI-Ds1.text" = "Update Software";
+
+/* Class = "UITabBarItem"; title = "Calls"; ObjectID = "9RO-87-0I3"; */
+"9RO-87-0I3.title" = "Calls";
+
+/* Class = "UILabel"; text = "Tech Log"; ObjectID = "FH1-vG-Hq6"; */
+"FH1-vG-Hq6.text" = "Tech Log";
+
+/* Class = "UISegmentedControl"; GE4-nb-svH.segmentTitles[0] = "Server"; ObjectID = "GE4-nb-svH"; */
+"GE4-nb-svH.segmentTitles[0]" = "Server";
+
+/* Class = "UISegmentedControl"; GE4-nb-svH.segmentTitles[1] = "Client"; ObjectID = "GE4-nb-svH"; */
+"GE4-nb-svH.segmentTitles[1]" = "Client";
+
+/* Class = "UILabel"; text = "Battery Saving Mode"; ObjectID = "GYO-H0-E0s"; */
+"GYO-H0-E0s.text" = "Battery Saving Mode";
+
+/* Class = "UILabel"; text = "Disconnect"; ObjectID = "HjK-ZF-nds"; */
+"HjK-ZF-nds.text" = "Disconnect";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "HmA-VU-Xfu"; */
+"HmA-VU-Xfu.text" = "Name";
+
+/* Class = "UILabel"; text = "SurName"; ObjectID = "Lck-Xr-lQV"; */
+"Lck-Xr-lQV.text" = "SurName";
+
+/* Class = "UISegmentedControl"; NY0-fy-xb7.segmentTitles[0] = "WiFi Direct"; ObjectID = "NY0-fy-xb7"; */
+"NY0-fy-xb7.segmentTitles[0]" = "WiFi Direct";
+
+/* Class = "UISegmentedControl"; NY0-fy-xb7.segmentTitles[1] = "Access Point Mode"; ObjectID = "NY0-fy-xb7"; */
+"NY0-fy-xb7.segmentTitles[1]" = "Access Point Mode";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "OJo-P2-BzI"; */
+"OJo-P2-BzI.text" = "Email";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "RYX-Ti-bYi"; */
+"RYX-Ti-bYi.text" = "Phone";
+
+/* Class = "UISegmentedControl"; VOC-ei-9t5.segmentTitles[0] = "Iridium"; ObjectID = "VOC-ei-9t5"; */
+"VOC-ei-9t5.segmentTitles[0]" = "Iridium";
+
+/* Class = "UISegmentedControl"; VOC-ei-9t5.segmentTitles[1] = "Globstar"; ObjectID = "VOC-ei-9t5"; */
+"VOC-ei-9t5.segmentTitles[1]" = "Globstar";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "WmI-RU-zIR"; */
+"WmI-RU-zIR.text" = "Settings";
+
+/* Class = "UILabel"; text = "Reconnect"; ObjectID = "cKa-lO-2qd"; */
+"cKa-lO-2qd.text" = "Reconnect";
+
+/* Class = "UILabel"; text = "Synchronize Contacts"; ObjectID = "cWh-5T-pgO"; */
+"cWh-5T-pgO.text" = "Synchronize Contacts";
+
+/* Class = "UISegmentedControl"; dKM-PC-CAc.segmentTitles[0] = "WiFi"; ObjectID = "dKM-PC-CAc"; */
+"dKM-PC-CAc.segmentTitles[0]" = "WiFi";
+
+/* Class = "UISegmentedControl"; dKM-PC-CAc.segmentTitles[1] = "Bluetooth"; ObjectID = "dKM-PC-CAc"; */
+"dKM-PC-CAc.segmentTitles[1]" = "Bluetooth";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "eAW-5j-DLX"; */
+"eAW-5j-DLX.text" = "Language";
+
+/* Class = "UILabel"; text = "Info 1"; ObjectID = "fDd-Hj-xv4"; */
+"fDd-Hj-xv4.text" = "Info 1";
+
+/* Class = "UILabel"; text = "Select connection"; ObjectID = "jVU-CJ-SNv"; */
+"jVU-CJ-SNv.text" = "Select connection";
+
+/* Class = "UILabel"; text = "FullName"; ObjectID = "kKK-54-9w1"; */
+"kKK-54-9w1.text" = "FullName";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "pRe-X0-7Xk"; */
+"pRe-X0-7Xk.text" = "Date";
+
+/* Class = "UILabel"; text = "Info 2"; ObjectID = "rQ1-RS-YcZ"; */
+"rQ1-RS-YcZ.text" = "Info 2";
+
+/* Class = "UILabel"; text = "New Contact"; ObjectID = "tbY-Xa-2Xu"; */
+"tbY-Xa-2Xu.text" = "New Contact";
+
+/* Class = "UILabel"; text = "Developer options"; ObjectID = "thE-HQ-Qe3"; */
+"thE-HQ-Qe3.text" = "Developer options";
+
+/* Class = "UILabel"; text = "Inbox"; ObjectID = "uQr-c3-IlK"; */
+"uQr-c3-IlK.text" = "Inbox";
+
+/* Class = "UISegmentedControl"; y4j-4j-mkf.segmentTitles[0] = "Phone"; ObjectID = "y4j-4j-mkf"; */
+"y4j-4j-mkf.segmentTitles[0]" = "Phone";
+
+/* Class = "UISegmentedControl"; y4j-4j-mkf.segmentTitles[1] = "SatBridge"; ObjectID = "y4j-4j-mkf"; */
+"y4j-4j-mkf.segmentTitles[1]" = "SatBridge";
+
+/* Class = "UILabel"; text = "Update SatBridge Device"; ObjectID = "yZ8-A3-oap"; */
+"yZ8-A3-oap.text" = "Update SatBridge Device";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "yas-yq-Spt"; */
+"yas-yq-Spt.text" = "Language";

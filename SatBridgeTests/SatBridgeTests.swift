@@ -23,8 +23,8 @@ class SatBridgeTests: XCTestCase {
     }
     
     func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
+        // Reference a Realm object in a test
+        XCTAssertNotNil(CallLog())
     }
     
     func testPerformanceExample() {
